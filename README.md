@@ -18,7 +18,8 @@
 ###* Chapter 13. How to work with recursion and algorithms
 
 ## Section 3 Object-oriented programming
-###* Chapter 14. 
+###* Chapter 14. How to define and use your own classes
+###* Chapter 15. How to work with inheritance 
 
 
 ## Section 4 Database and GUI programming
