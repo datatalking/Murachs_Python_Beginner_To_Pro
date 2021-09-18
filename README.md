@@ -22,6 +22,7 @@
 ###* Chapter 15. How to work with inheritance 
 
 
+
 ## Section 4 Database and GUI programming
 ###* Chapter 17. How to work with a database
 
