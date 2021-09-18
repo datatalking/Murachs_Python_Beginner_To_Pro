@@ -17,10 +17,6 @@
 ###* Chapter 12. How to work with dictionaries
 ###* Chapter 13. How to work with recursion and algorithms
 
-
-
-
-
 ## Section 3 Object-oriented programming
 ###* Chapter 14. 
 
