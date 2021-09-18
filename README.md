@@ -20,13 +20,11 @@
 ## Section 3 Object-oriented programming
 ###* Chapter 14. How to define and use your own classes
 ###* Chapter 15. How to work with inheritance 
-
-
+###* Chapter 16. How to design an object-oriented program
 
 ## Section 4 Database and GUI programming
 ###* Chapter 17. How to work with a database
-
-
+###* Chapter 18. How to build a GUI program
 
 ## Reference aids
 ###* Appendix A. How to setup Windows 7, 8, 9, or 10 for Python (recommend you don't)
