@@ -3,7 +3,9 @@
 ## Section 1 Essential concepts and skills
 ###* 1. An introduction to Python Programming
 ###* 2. How to write our first programs
-###* 3. How to code control statements 
+###* 3. How to code control statements
+###* 4. How to define and use functions and modules
+###* 5. How to test and debug a program
 
 ## Section 2 Other concepts and skills
 ###* 1. 
