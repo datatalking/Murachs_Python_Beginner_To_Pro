@@ -1,25 +1,27 @@
 # Murachs Python Beginner to Pro
 
 ## Section 1 Essential concepts and skills
-###* 1. An introduction to Python Programming
-###* 2. How to write our first programs
-###* 3. How to code control statements
-###* 4. How to define and use functions and modules
-###* 5. How to test and debug a program
-###* 6. How to work with lists and tuples
-###* 7. How to work with file I/O
-
+###* Chapter 1. An introduction to Python Programming
+###* Chapter 2. How to write our first programs
+###* Chapter 3. How to code control statements
+###* Chapter 4. How to define and use functions and modules
+###* Chapter 5. How to test and debug a program
+###* Chapter 6. How to work with lists and tuples
+###* Chapter 7. How to work with file I/O
+###* Chapter 8. How to handle exceptions
 
 ## Section 2 Other concepts and skills
-###* 1. 
+###* Chapter 9. How to work with numbers
+
+
 
 
 ## Section 3 Object-oriented programming
-###* 1. 
+###* Chapter 14. 
 
 
 ## Section 4 Database and GUI programming
-###* 17. How to work with a database
+###* Chapter 17. How to work with a database
 
 
 
