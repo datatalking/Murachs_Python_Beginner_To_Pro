@@ -14,6 +14,9 @@
 ###* Chapter 9. How to work with numbers
 ###* Chapter 10. How to work with strings
 ###* Chapter 11. How to work with dates and times
+###* Chapter 12. How to work with dictionaries
+###* Chapter 13. How to work with recursion and algorithms
+
 
 
 
