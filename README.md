@@ -6,6 +6,9 @@
 ###* 3. How to code control statements
 ###* 4. How to define and use functions and modules
 ###* 5. How to test and debug a program
+###* 6. How to work with lists and tuples
+###* 7. How to work with file I/O
+
 
 ## Section 2 Other concepts and skills
 ###* 1. 
