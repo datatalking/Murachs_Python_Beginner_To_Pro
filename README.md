@@ -12,6 +12,8 @@
 
 ## Section 2 Other concepts and skills
 ###* Chapter 9. How to work with numbers
+###* Chapter 10. How to work with strings
+###* Chapter 11. How to work with dates and times
 
 
 
