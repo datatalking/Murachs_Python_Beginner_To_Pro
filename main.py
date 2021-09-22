@@ -6,14 +6,21 @@ def section_one():
 	chapter layout
 	:return:
 	"""
-
+	section_one_terms(
+		console_application = 'is a desktop applicatio that uses the console to interact with the user',
+		GUI_application = 'is an application that uses a graphical user interface for the user interaction vs a terminal',
+		web_application = 'typically gets requests from a web browser, processes them on a web server, and '
+		                  'returns the responses to the web browswer',
+		
+	)
+	
 
 def section_two():
 	"""
 	chapters
 	:return:
 	"""
-	
+
 
 def section_three():
 	"""
@@ -34,6 +41,7 @@ def appendix_list():
 	stuff
 	:return:
 	"""
+
 
 """
 # TODOFix getting an enviroment error. will diagnose if it persissts. I disabled rqd.txt plugin.
