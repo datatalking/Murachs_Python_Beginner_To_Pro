@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-        
+
+
 def get_number(prompt, low, high):
     while True:
         number = float(input(prompt))
@@ -10,7 +11,8 @@ def get_number(prompt, low, high):
             print("Entry must be greater than", low,
                   "and less than or equal to", high,
                   "Please try again.")
-            
+
+
 def get_integer(prompt, low, high):
     while True:
         number = int(input(prompt))
@@ -21,7 +23,8 @@ def get_integer(prompt, low, high):
             print("Entry must be greater than", low,
                   "and less than or equal to", high,
                   "Please try again.")
-            
+
+
 def calculate_future_value(monthly_investment, yearly_interest, years):
     # convert yearly values to monthly values
     monthly_interest_rate = yearly_interest / 12 / 100
@@ -36,6 +39,7 @@ def calculate_future_value(monthly_investment, yearly_interest, years):
 
     return future_value
 
+
 def main():
     choice = "y"
     while choice.lower() == "y":
@@ -49,7 +53,7 @@ def main():
             monthly_investment, yearly_interest_rate, years)
         
         print()
-        print("Future value:\t\t\t" + str(round(future_value, 2)))
+        print("Future value:\t\t\t$" + str(round(future_value, 2)))
         print()
 
         # see if the user wants to continue
@@ -57,6 +61,7 @@ def main():
         print()
 
     print("Bye!")
-    
+
+
 if __name__ == "__main__":
     main()
